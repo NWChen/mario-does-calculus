@@ -1,0 +1,8 @@
+Having gotten slightly lost during his adventure to rescue Princess Peach, Mario has transcended the spacetime boundaries of the Mushroom Kingdom. He finds himself in a limbo-like state, caught between the gravitational pull of a variable supergiant Koopa star and the powerful accretion disc forming around a Goomba galaxy. Mario suspects that one of the interdimensional wormholes before him leads directly to the castle in which Princess Peach is imprisoned. In order to select the correct wormhole, however, Mario must determine which of the supermassive mushrooms next to the wormhole has a volume equivalent in number to the total mass in petagrams of the Mushroom Kingdom. Drawing from his intimate knowledge of mushroom astrophysics, Mario deduces that the Mushroom Kingdom weighs a hefty 51.276 petagrams. 
+Mario now has to determine, from the clearly labeled equations spewing rapidly out of the recent implosion of a large star, which mushroom (and thus which wormhole) will lead him to the Mushroom Kingdom. Mario suspects that the wood-like mushroom has volume equal to 51.276 u3. This mushroom is formed from circular cross sections perpendicular to the x-axis on a base (revolved about the x-axis) bounded by y=(x^5)cos(x^3/1000)+3, y=0, x=-17.872, and x=0. What is the volume of the wood-like mushroom, when revolved about the x-axis, whose base is defined by the equations
+y=(x^5)cos(x^3/1000)+3
+y=0
+and whose lower and upper limits are
+x=-17.872
+x=0
+? Will Mario ever return to the Mushroom Kingdom and be able to gaze dreamily at his precious Peach once more?
